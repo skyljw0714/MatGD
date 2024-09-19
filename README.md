@@ -19,8 +19,9 @@ Copy the repository to your local machine:
 ```bash
 git clone https://github.com/skyljw0714/MatGD.git
 cd MatGD
-
+```
 
 ### 3. Install the environment
 ```bash
 conda env update --file environment.yml
+```
