@@ -11,7 +11,7 @@ Use the following commands to set up a conda environment:
 ```bash
 conda create --name matgd python=3.8
 conda activate matgd
-
+```bash
 
 ### 2. Clone the repository
 Copy the repository to your local machine:
