@@ -25,3 +25,9 @@ cd MatGD
 ```bash
 conda env update --file environment.yml
 ```
+
+### 4. Verify installation
+```bash
+python
+import matgd
+```
